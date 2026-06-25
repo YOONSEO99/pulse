@@ -1,3 +1,3 @@
-```
-🔗 **Live Portfolio Site:** https://YOONSEO99.github.io/pulse
-```
+---
+🔗 **Live Portfolio Specification:** `https://YOONSEO99.github.io/pulse/`
+---
